@@ -2,6 +2,8 @@
   "name": "react-ts-boilerplate",
   "version": "0.1.0",
   "author": "Attawit Kittikrairit",
+  "homepage": "https://github.com/atton16/react-ts-boilerplate#readme",
+  "repository": "github:atton16/react-ts-boilerplate",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.1.3",
