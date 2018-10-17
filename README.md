@@ -32,6 +32,7 @@
 Simply execute the following shell script
 
 ```
+npm i -g yo generator-ae-react
 yo ae-react <project-name>
 ```
 
