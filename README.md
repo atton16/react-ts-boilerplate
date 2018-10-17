@@ -29,9 +29,11 @@
 
 ### Getting Started
 
-1. Clone this repository
-2. Install dependencies, execute `yarn install`
-3. Run, execute `yarn start`
+Simply execute the following shell script
+
+```
+yo ae-react <project-name>
+```
 
 
 ### Disclaimer
